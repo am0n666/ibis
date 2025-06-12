@@ -7,3 +7,9 @@ before generating your eBook in PDF, EPUB, or HTML format. The interface uses
 Bootstrap for basic styling and assumes the `ibis-next` binary is available in
 the system `PATH`.
 
+The UI lets you:
+
+* Import or export your `ibis.php` configuration
+* Upload additional styles, covers and fonts to use when generating
+* Choose among uploaded assets when running `ibis-next`
+
